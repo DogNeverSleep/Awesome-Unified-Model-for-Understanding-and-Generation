@@ -16,6 +16,6 @@ This is a repository dedicated to organizing articles and related works on **Uni
 # 💡 Models
 |  Name  |  Title  |   Date   |   Link   |
 |:-------|:-------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/baaivision/Emu3.svg?style=social&label=Star) <br> Emu3 | [**Emu3: Next-Token Prediction is All You Need**](https://arxiv.org/abs/2409.18869) | 2024-09-27 | [BAAI](https://emu.baai.ac.cn/about) |
+| ![Star](https://img.shields.io/github/stars/baaivision/Emu3.svg?style=social&label=Star) <br> **Emu3** | [**Emu3: Next-Token Prediction is All You Need**](https://arxiv.org/abs/2409.18869) | 2024-09-27 | [BAAI](https://emu.baai.ac.cn/about) |
 
 # 🗂️ Dataset & Benchmark
