@@ -1,10 +1,10 @@
 # Awesome-Unified-Multimodal-Model-for-Understanding-and-Generation
 
-## Introduction
+## 📚 Introduction
 This is a repository dedicated to organizing articles and related works on **Unified Multimodal Model for Understanding and Generation**.
 
 # Table of Contents
-[toc]
+[TOC]
 
 # Survey
 
