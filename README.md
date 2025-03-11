@@ -1,7 +1,7 @@
-# Awesome Unified Multimodal Model for Understanding and Generation
+# Awesome Unified Model for Understanding and Generation
 
 ## 🌟 Introduction
-This is a repository dedicated to organizing articles and related works on **Unified Multimodal Model for Understanding and Generation**.
+This is a repository dedicated to organizing articles and related works on **Unified Model for Understanding and Generation**.
 
 # 📚 Table of Contents
 - [News](#News)
@@ -30,6 +30,7 @@ This is a repository dedicated to organizing articles and related works on **Uni
 | ![Star](https://img.shields.io/github/stars/CodeGoat24/UnifiedReward.svg?style=social&label=Star) <br> [**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**](https://arxiv.org/abs/2408.12528) <br> | 2024-08-22 | [Github](https://codegoat24.github.io/UnifiedReward/) |
 | [**Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model**](https://arxiv.org/abs/2408.11039) | 2024-08-20 | - |
 | ![Star](https://img.shields.io/github/stars/facebookresearch/chameleon.svg?style=social&label=Star) <br> [**Chameleon: Mixed-Modal Early-Fusion Foundation Models**](https://arxiv.org/abs/2405.09818) <br> | 2024-05-16 | [Github](https://github.com/facebookresearch/chameleon) |
+| [**Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks**](https://arxiv.org/abs/2206.08916) | 2022-06-17 | [Project](https://unified-io.allenai.org/) |
 | [**CM3: A Causal Masked Multimodal Model of the Internet**](https://arxiv.org/abs/2201.07520) | 2022-01-10 | - |
 
 # ⚖️ Alignment
